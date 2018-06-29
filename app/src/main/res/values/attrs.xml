@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="NixoBottomButton">
+
+
+        <attr name="android:background"/>
+        <attr name="android:text"/>
+        <attr name="textSize" format="integer"/>
+        <attr name="isClick" format="boolean"/>
+        <attr name="circlePaddingBottom" format="integer"/>
+        <attr name="circleFrame" format="integer"/>
+        <attr name="circleFrameColor" format="color"/>
+        <attr name="circleColor" format="color"/>
+        <attr name="circleRadis" format="integer"/>
+
+    </declare-styleable>
+
+
+
+    <declare-styleable name="NixoProgessBar">
+        
+        <attr name="CircleRaids" format="dimension"/>
+        <attr name="CircleColor" format="color"/>
+        <attr name="android:progress"/>
+        <attr name="android:text"/>
+        <attr name="android:textSize"/>
+
+    </declare-styleable>
+    
+    <declare-styleable name="NixoView">
+        <attr name="text" format="string"/>
+        <attr name="number" format="integer"/>
+
+
+    </declare-styleable>
+
+</resources>
