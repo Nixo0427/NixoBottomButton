@@ -20,7 +20,7 @@ NixoBottomButton对外设置了两个方法，set/getIcon()方法 可以添加�
 (有bug，咱不可用) setPlusAnimator()方法，可以自己set进去想要的中心图案动画
 
 
-#在XML中
+# 在XML中
 android:text="" (设置摁扭底部文本)  
 Nixo:textSize="30" (设置文本大小，注意没有单位)  
 Nixo:circlePaddingBottom="20" (圆距离底部的偏移量 没有单位)  
@@ -30,7 +30,7 @@ Nixo:circleFrameColor="#fff" (圆边框颜色)
 
 
 
-#整体实例  
+# 整体实例  
 <com.example.nixo.nixoview.NixoBottomButton
   
   
